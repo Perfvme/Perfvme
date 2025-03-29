@@ -77,5 +77,5 @@ I'm a passionate developer focused on creating elegant, user-centric web solutio
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thurdev&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=perfvme&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
