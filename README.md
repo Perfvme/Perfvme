@@ -6,7 +6,7 @@
 
 I build custom web applications that bring visions to life. Currently open to freelance opportunities.
 
-[![Website](https://img.shields.io/badge/-Portfolio-3C005A?style=flat-square&logo=react&logoColor=white)](https://arthuryohanis.netlify.com)
+[![Website](https://img.shields.io/badge/-Portfolio-3C005A?style=flat-square&logo=react&logoColor=white)](https://arthuryohanis.netlify.app)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thurdev@outlook.com)
 
 ## Skills
