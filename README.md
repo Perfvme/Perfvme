@@ -14,7 +14,7 @@ I build custom web applications that bring visions to life. Currently open to fr
 ```javascript
 const skills = {
   frontend: ['React', 'TypeScript', 'JavaScript', 'HTML/CSS', 'Tailwind', 'Next.js'],
-  backend: ['Node.js', 'Express', 'MongoDB', 'PostgreSQL', 'Supabase', 'GraphQL'],
+  backend: ['Node.js', 'MongoDB', 'PostgreSQL', 'Supabase'],
   tools: ['Git', 'GitHub', 'Docker', 'AWS', 'Jest', 'Webpack', 'Cursor']
 }
 ```
